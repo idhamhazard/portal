@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.login {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url("../assets/imageSignIn.avif");
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+

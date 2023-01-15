@@ -1,0 +1,52 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.heroSec {
+  height: 100vh;
+}
+
+.costumjudul {
+  letter-spacing: 0.1em;
+}
+
+.contentCards {
+  padding: 16px;
+  border-radius: 7px;
+  text-align: center;
+  background-color: transparent;
+  box-shadow: 0 7px 30px -10px rgba(150, 170, 180, 0.7);
+}
+
+.content-box:hover {
+  transition: ease-in-out 2s;
+}
+
+.costumFooter {
+  background-color: #16213e !important;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+}
+
+.footerLink {
+  color: rgba(255, 255, 255, 0.5);
+  position: relative;
+}
+
+.footerLink:hover {
+  color: #0275d8;
+}
+
+.textCopyright {
+  text-decoration: none;
+}
+
+footer {
+  background-color: #0a2647 !important;
+}
